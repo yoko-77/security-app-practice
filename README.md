@@ -19,4 +19,4 @@ COACHTECH 教材 Tutorial 10-6「Webセキュリティ ハンズオン」で作�
 
 http://localhost/contactで正しく登録画面がでる
 ビューから@csrfを削除して送信すると419 Page Expiredエラーになる
-メッセージに「![alt text](image.png)」入れて送信しても文字ベース表示がでるだけで画像でない
+メッセージにスクリプトを入れて送信しても文字ベース表示がでるだけで画像でない
